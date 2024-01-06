@@ -1,0 +1,8 @@
+Name: asda
+Student ID: asd
+Email: sad@asf
+Phone: 434
+Address: 262, Sto Nino Magalang Pampanga
+Amount: 3432323
+Payment Method: cash
+Purpose: asdsfdvcxsdfsd
